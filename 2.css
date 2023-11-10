@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(241, 217, 181);
+    margin-left: 185px;
+}
+
+.timer {
+    text-align: center;
+    font-size: 30px;
+}
+
+.controls button {
+    margin: 20px;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: aqua;
+    font-size: 30px;
+}
+
+#display {
+    font-size: 70px;
+    margin-bottom: 10px;
+    color: rgb(83, 43, 226);
+}
+
+.para{
+    font-size: 9px;
+    text-align: end;
+    margin-top: 650px;
+    margin-left: 50px;
+
+}
